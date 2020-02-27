@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "LMCO-CB Assessment1", "LMCO-CB Assessment1\Test.tsp", "62E272CE-AEF9-48C3-99B3-C5BA9D875CDF"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\demo\Documents\Unified Functional Testing\solveApresalesProblem\LMCO-CB Assessment1\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("") = "TakeATest", "TakeATest\Test.tsp", "9CC03056-449B-4389-8F1C-76411F36D3DD"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\demo\Documents\Unified Functional Testing\solveApresalesProblem\TakeATest\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		62E272CE-AEF9-48C3-99B3-C5BA9D875CDF.Debug|Any CPU.Build.0 = Debug|Any CPU
+		62E272CE-AEF9-48C3-99B3-C5BA9D875CDF.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		62E272CE-AEF9-48C3-99B3-C5BA9D875CDF.Release|Any CPU.Build.0 = Release|Any CPU
+		62E272CE-AEF9-48C3-99B3-C5BA9D875CDF.Release|Any CPU.ActiveCfg = Release|Any CPU
+		9CC03056-449B-4389-8F1C-76411F36D3DD.Debug|Any CPU.Build.0 = Debug|Any CPU
+		9CC03056-449B-4389-8F1C-76411F36D3DD.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		9CC03056-449B-4389-8F1C-76411F36D3DD.Release|Any CPU.Build.0 = Release|Any CPU
+		9CC03056-449B-4389-8F1C-76411F36D3DD.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
